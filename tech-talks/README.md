@@ -19,7 +19,7 @@ If you wish to receive future seminar announcements:
 
 | Date | Topic / Speaker | Recording | Slides |
 |------|-----------------|-----------|--------|
-| October 13, 2022 | "LINCC Frameworks Projects in Yr1: from bulk-data formats to photo-z testbeds" (J. Kubica and the LINCC team) | TODO | TODO |
+| October 13, 2022 | "LINCC Frameworks Projects in Yr1: from bulk-data formats to photo-z testbeds" (J. Kubica and the LINCC team) | [LINK](https://www.youtube.com/watch?v=Apls6oG2Qv0) | [PDF](https://github.com/lincc-frameworks/docs/blob/main/tech-talks/LINCC-Frameworks%20Introduction%20(Oct%202022).pdf) |
 | November 10, 2022| Timeseries in astronomy -Sunpy (Will Barnes) and SER-SAG Periodicity pipeline Inkind contribution (Andjelka Kovacevic) | TODO | TODO |
 
 ### UPCOMING TALKS 
